@@ -1,7 +1,5 @@
-<a href="https://linkedin.com/in/fazliddin-ismoilov-04432b304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazliddin-ismoilov-04432b304" height="30" width="40" /></a>
-<a href="https://instagram.com/f.ismoilovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f.ismoilovv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fazliddinismoilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fazliddinismoilov" height="30" width="40" /></a>
-<a href="https://t.me/Fazlidd1nBlog" target="blank"><img align="center" src="https://icons8.com/icon/lUktdBVdL4Kb/telegram" alt="fazliddinismoilov" height="30" width="40" /></a>
+[github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 <h1 align="center">Hi 👋, I'm Shohjahon</h1>
