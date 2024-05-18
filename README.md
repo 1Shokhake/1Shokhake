@@ -1,10 +1,8 @@
+<h1 align="center">Hi 👋, I'm Shohjahon Saidqulov</h1>
+<h3 align="center">Backend Developer from Uzbekiston</h3>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
-
-<h1 align="center">Hi 👋, I'm Shohjahon</h1>
-<h3 align="center">A passionate backend developer from Uzbek</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
